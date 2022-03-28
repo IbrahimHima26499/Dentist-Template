@@ -1,2 +1,2 @@
 # Dentist-Template
-A dentist website templte
+A dentist website template
